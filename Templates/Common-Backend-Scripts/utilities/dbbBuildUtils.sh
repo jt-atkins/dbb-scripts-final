@@ -71,7 +71,7 @@ computeBuildConfiguration() {
                 Type="${Type} --debug"
             fi
             ;;
-        FEATURE*)
+        GENAP*)
             # all feature branche start with F
 
             # evaluate third segment
